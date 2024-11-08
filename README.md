@@ -52,18 +52,6 @@ The repository includes the following files:
 - `releveTotal.xsl` - XSL file to display all data in HTML format, including debit and credit totals.
 - `releveCreditOnly.xsl` - XSL file to display only "CREDIT" operations in HTML format.
 
-## Usage
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/md-naciri/xml-exercise.git
-    cd xml-exercise
-    ```
-
-2. Open the XML files in an XML editor or browser to view and validate their structure.
-3. Use the `.xsl` files with compatible XML viewers to transform and view the XML data in HTML format.
-
 ## Author
 
 This repository was created by md-naciri as part of a practical XML exercise.
